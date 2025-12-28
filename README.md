@@ -6,6 +6,14 @@ I build backend systems that need to work reliably at scale. My experience spans
 healthcare data processing, payment integrations, LLM platforms, and microservices 
 architecture.
 
+## Frameworks and stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ## What I Work On
 
 **Backend Systems & APIs**
@@ -83,14 +91,6 @@ conferencing systems, and real-time sports betting platforms.
 💼 [Upwork Profile](https://www.upwork.com/freelancers/javierllamasramirez) - Top Rated Plus
 
 **AWS Certified Cloud Practitioner** • Applied Data Science (Columbia/Emeritus)
-
-## Frameworks and stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 Based in Aguascalientes, Mexico • Available for remote contract work
